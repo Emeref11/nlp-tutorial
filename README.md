@@ -59,7 +59,7 @@
 
 
 
-#### 5. Model based on Transformer
+#### 5. Model based on the Transformer
 
 - 5-1.  [The Transformer](5-1.Transformer) - **Translate**
   - Paper - [Attention Is All You Need(2017)](https://arxiv.org/abs/1706.03762)
